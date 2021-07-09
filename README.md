@@ -1,2 +1,1 @@
-# LetsUpgrade-Js-Day1
-Day 1 assignment
+# LetsUpgrade-JavaScript_Essentials_Program-July_2021
